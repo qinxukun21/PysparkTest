@@ -10,7 +10,9 @@
 
 ### 整体数据介绍
 
-首先先介绍一下我的数据集。
+首先先介绍一下我的数据集。数据集有点大，我不会上传到github上，所以给个百度网盘链接。
+链接：https://pan.baidu.com/s/1hskLR7C12T6d9t3Ifl_r3g?pwd=dqnz 
+提取码：dqnz 
 
 ![image-20220113165853606](C:\Users\Alienware\AppData\Roaming\Typora\typora-user-images\image-20220113165853606.png)
 
